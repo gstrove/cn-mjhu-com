@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gstrove.github.io/cn-mjhu-com/sitemap.xml
